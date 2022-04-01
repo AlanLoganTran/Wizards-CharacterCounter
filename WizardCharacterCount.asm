@@ -1,3 +1,4 @@
+//Placeholder for Elect 74
 .ORIG X3000
  
 	LEA   R0, PROMPT1   ;PROMPTS THE USER TO ENTER THEIR
